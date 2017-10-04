@@ -1,0 +1,11 @@
+/Users/josephwoodward/Dev/EventStoreSandbox/bin/Debug/netcoreapp2.0/EventStoreSandbox.deps.json
+/Users/josephwoodward/Dev/EventStoreSandbox/bin/Debug/netcoreapp2.0/EventStoreSandbox.runtimeconfig.json
+/Users/josephwoodward/Dev/EventStoreSandbox/bin/Debug/netcoreapp2.0/EventStoreSandbox.runtimeconfig.dev.json
+/Users/josephwoodward/Dev/EventStoreSandbox/bin/Debug/netcoreapp2.0/EventStoreSandbox.dll
+/Users/josephwoodward/Dev/EventStoreSandbox/bin/Debug/netcoreapp2.0/EventStoreSandbox.pdb
+/Users/josephwoodward/Dev/EventStoreSandbox/obj/Debug/netcoreapp2.0/EventStoreSandbox.csprojResolveAssemblyReference.cache
+/Users/josephwoodward/Dev/EventStoreSandbox/obj/Debug/netcoreapp2.0/EventStoreSandbox.csproj.CoreCompileInputs.cache
+/Users/josephwoodward/Dev/EventStoreSandbox/obj/Debug/netcoreapp2.0/EventStoreSandbox.AssemblyInfoInputs.cache
+/Users/josephwoodward/Dev/EventStoreSandbox/obj/Debug/netcoreapp2.0/EventStoreSandbox.AssemblyInfo.cs
+/Users/josephwoodward/Dev/EventStoreSandbox/obj/Debug/netcoreapp2.0/EventStoreSandbox.dll
+/Users/josephwoodward/Dev/EventStoreSandbox/obj/Debug/netcoreapp2.0/EventStoreSandbox.pdb

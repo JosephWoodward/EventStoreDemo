@@ -1,0 +1,48 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/josephwoodward/Dev/EventStoreSandbox/EventStoreSandbox.csproj",
+    "projectName": "EventStoreSandbox",
+    "projectPath": "/Users/josephwoodward/Dev/EventStoreSandbox/EventStoreSandbox.csproj",
+    "outputPath": "/Users/josephwoodward/Dev/EventStoreSandbox/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "EventStore.ClientAPI.NetCore": {
+          "target": "Package",
+          "version": "4.0.2-rc"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    },
+    "win-x64": {
+      "#import": []
+    },
+    "win-x86": {
+      "#import": []
+    }
+  }
+}
